@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kakieshoqu.vividhelix.com/sitemap.xml
